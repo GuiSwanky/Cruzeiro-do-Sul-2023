@@ -1,0 +1,9 @@
+•	Atualização de um Sistema Novo com novos recursos e funcionalidades, tendo como principal objetivo deixar a organização dos dados dos clientes melhorada.
+•	Recursos e Funcionalidades:
+o	Sistema Gerenciador de Banco de Dados
+	Adicionar e remover cadastros
+	Filtragem dos dados
+	Criação de novas tabelas
+o	Sistema de Mensagens Automáticas
+	Mensagens referentes a promoções via E-mail
+	Mensagens referentes a confirmações de consultas

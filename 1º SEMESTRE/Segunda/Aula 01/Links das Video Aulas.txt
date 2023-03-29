@@ -1,0 +1,8 @@
+NodeJS: 
+https://youtu.be/vYekSMBCCiM
+
+Microserviços: 
+https://youtu.be/_2bDOCTnbKc
+
+Containers: 
+https://youtu.be/-pUZBovqRcU

@@ -1,0 +1,11 @@
+Histórias de usuários: o que são, por que e como usá-los:
+https://www.digite.com/pt-br/agile/historias-de-usuarios/
+
+Histórias de usuários com exemplos e um template:
+https://www.atlassian.com/br/agile/project-management/user-stories
+
+Veja agora 08 dicas para criar excelentes histórias de usuário:
+https://www.metodoagil.com/historias-de-usuario/
+
+O que são as histórias de usuário e como escrevê-las bem?:
+http://www2.decom.ufop.br/terralab/o-que-sao-as-historias-de-usuario-e-como-escreve-las-bem/
